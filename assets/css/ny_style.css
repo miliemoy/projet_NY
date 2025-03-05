@@ -1,0 +1,27 @@
+    /*affichage de la page*/
+    *{margin: 15px;}
+    
+    /*body*/
+body {color:#444;font-size: 18px;text-align: center;line-height: 1.5em;}
+
+@font-face{
+    font-family:"Courgette-Regular.ttf", serif;
+    src:url("../font/Courgette-Regular.ttf") format('truetype');
+            }
+body p{text-align:left;}
+   
+    /*header*/
+    header {color:#003884;}
+    header h1 {font-size:40px;}
+    header h2 {font-size:20px;text-align: justify;font-style : oblique;}
+    blockquote {background: #d7e1ef;font-style : oblique;font-family:Courgette-Regular;}
+
+    /*main*/
+    main h1{font-style : oblique;color:#4f89b9;font-size:35px;}
+    main h2{font-style : oblique;color:#003884;font-size:25px;}
+    main h3{font-style : oblique;color:#003884;font-size:25px;}
+    main h4 {font-style : oblique;color:#4f89b9;font-size:35px;}
+    main h5{font-style : oblique;color:#4f89b9;font-size:35px;}
+
+    /*footer*/
+    footer h1{color: #003884;}
